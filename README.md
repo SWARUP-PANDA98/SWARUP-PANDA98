@@ -27,7 +27,7 @@
 - 🤖 **Interests:** Web Apps, AI/ML
 - 🧠 **Constantly learning, building, and collaborating**
 - 🛠️ **Tools I Use:** Git, GitHub, VS Code
-- 🎨 **Design Stack:** Figma, Canva, TailwindCSS
+- 🎨 **Design Stack:** Canva, TailwindCSS
 - 🚀 **Projects:** Building an AI-powered Meal Planner
 - 🎮 **Fun Fact:** I love gaming and experimenting with UIs!
 </p>
@@ -128,7 +128,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/rudraop5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraop5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra prasad lugun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra prasad lugun" height="30" width="40" /></a>
-<a href="https://instagram.com/forgotten_god_936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="forgotten_god_936" height="30" width="40" /></a>
+<a href="https://x.com/306Swarup?t=hZhSyxj_jVQNBIFprQZzJw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="306Swarup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swati-swarup-panda-8578b6253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati swarup panda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_swarup._____?igsh=MnRncHB0aDg4YTkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swarup._____" height="30" width="40" /></a>
 </p>
