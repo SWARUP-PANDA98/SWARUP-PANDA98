@@ -120,8 +120,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranotop&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rudranotop" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rudranotop&show_icons=true&theme=tokyonight&locale=en" alt="rudranotop"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swatiswaruppanda&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="swatiswaruppanda" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swatiswaruppanda&show_icons=true&theme=tokyonight&locale=en" alt="swatiswaruppanda"/>
 </p>
 
 ---
