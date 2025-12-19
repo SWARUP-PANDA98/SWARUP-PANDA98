@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/swatiswaruppanda/swatiswaruppanda/main/images/header.svg" alt="Animated header showing a coding journey" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYxMzA3MDUsIm5iZiI6MTc2NjEzMDQwNSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE5VDA3NDY0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMjRiY2Y3MzIxOTgxMjY1NTkxZWQxYzM3MGQ0ZDVjMzc5ZGZmZmI4NzkwZTdmOWUzNzk3ZTUwZThjNWE0MmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RYVEg5VqxJiHw0BLQ8o8kGgtH9dGSy8Bx6pDKRBQqaI" alt="Animated header" width="100%" />
 </div>
 
 <h1 align="center">
